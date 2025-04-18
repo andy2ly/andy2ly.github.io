@@ -1,8 +1,8 @@
 <!--[DEMO](https://tsjensen.github.io/fuse-core/) -->
 [DEMO](https://andy2ly.github.io/)
-# Fuse Core
+# Yi (Andy) Lei
 
-**A lightweight Jekyll theme for single-page personal websites.**
+**A lightweight Jekyll theme for Andy's personal websites.**
 
 # [![Screenshot](README.pic1.jpg)](https://tsjensen.github.io/fuse-core/)
 [![Screenshot](布布和一二.jpg)](https://andy2ly.github.io/)
