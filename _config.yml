@@ -12,9 +12,16 @@ sass:
 # When modifying this file, take care to preserve the indentation. This is YAML ...
 
 # Main Headline, name required, subtitle optional
-name: Yi (Andy) Lei
+#name: Yi (Andy) Lei
 #subtitle:
+#subtitle: Let's work together to make science less of a mystery!
+author:
+  name: Yi (Andy) Lei
+  avatar: "/images/favicons/avatar_optimized.jpg"
+  show_avatar: true
+
 subtitle: Let's work together to make science less of a mystery!
+
 
 # Title attribute of HTML Page, uses 'name' from above if empty
 title: BioFisher
@@ -59,10 +66,10 @@ plausible:
 # A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
 # Leave empty for generic placeholder image.
 # You can use your GitHub image:
-show_avatar: true
+#show_avatar: true
 #avatar: "https://avatars0.githubusercontent.com/u/8897534"
 #avatar: "images/jonathan_doe.jpg"
-avatar: "/images/favicons/avatar_optimized.jpg"
+#avatar: "/images/favicons/avatar_optimized.jpg"
 
 
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
