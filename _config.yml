@@ -34,8 +34,8 @@ url: https://andy2ly.github.io
 # 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
 # If not empty, be careful to keep the leading slash, and don't add a slash at the end.
 #baseurl: ''
-#baseurl: '/fuse-core'
-baseurl: 'https://scholar.google.com/citations?user=nY8PEYUAAAAJ&hl=zh-CN'
+baseurl: '/fuse-core'
+#baseurl: 'https://scholar.google.com/citations?user=nY8PEYUAAAAJ&hl=zh-CN'
 
 # Enable Google Analytics. Leave empty (just "ga:" with subitems commented out) to disable.
 # In order to comply with EU cookie law, enable 'cookieconsent' to show a little popup asking users to acknowledge the GA cookies.
@@ -67,6 +67,11 @@ avatar: "https://avatars0.githubusercontent.com/u/8897534"
 # All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
+  - google:
+      name: google schoolar
+      show: false
+      href: https://scholar.google.com/citations?user=nY8PEYUAAAAJ&hl=zh-CN
+      icon: fab fa-linkedin
   - xing:
       name: Xing
       show: false
