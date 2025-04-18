@@ -1,4 +1,4 @@
-#[DEMO](https://tsjensen.github.io/fuse-core/)
+<!--[DEMO](https://tsjensen.github.io/fuse-core/) -->
 [DEMO](https://andy2ly.github.io/)
 # Fuse Core
 
