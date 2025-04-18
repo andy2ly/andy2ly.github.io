@@ -4,7 +4,7 @@
 
 **A lightweight Jekyll theme for Andy's personal websites.**
 
-# [![Screenshot](README.pic1.jpg)](https://tsjensen.github.io/fuse-core/)
+<!-- [![Screenshot](README.pic1.jpg)](https://tsjensen.github.io/fuse-core/) -->
 [![Screenshot](布布和一二.jpg)](https://andy2ly.github.io/)
 
 This [Jekyll](https://jekyllrb.com/) theme is for you if you need a personal website that simply
