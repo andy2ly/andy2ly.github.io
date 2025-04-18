@@ -19,7 +19,8 @@ author:
   name: Yi (Andy) Lei
   avatar: "/images/favicons/avatar_optimized.jpg"
   show_avatar: true
-
+avatar: "/images/favicons/avatar_optimized.jpg"
+show_avatar: true
 subtitle: Let's work together to make science less of a mystery!
 
 
